@@ -75,7 +75,7 @@ a {
     }
 }
 
-@media (max-width: 329px) {
+@media (max-width: 400px) {
     .header img {
         margin-left: 80px;
     }
