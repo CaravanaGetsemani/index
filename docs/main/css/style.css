@@ -76,13 +76,14 @@ a {
 }
 
 
-@media (max-width: 358px) {
+@media (max-width: 380px) {
     .header img {
         margin: 0 auto;
     }
 }
 
 .header img {
+    
     width: 40%;
     border-radius: 5px;
 }
